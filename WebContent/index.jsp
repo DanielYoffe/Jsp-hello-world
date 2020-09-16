@@ -8,7 +8,7 @@
 </head>
 <body>
 <!-- declaration  -->
-<%!String msg="Hello World Works??"; %>
+<%!String msg="Hello World Works finally!!!"; %>
 <!-- 1.	scriptlet  -->
 <%
 out.println("From scriptlet   "+msg);
