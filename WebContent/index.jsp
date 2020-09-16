@@ -8,7 +8,7 @@
 </head>
 <body>
 <!-- declaration  -->
-<%!String msg="Hello World Works finally with Automatic updates!!!"; %>
+<%!String msg="Welcome to my example for usage of git + docker +  jenkins + tomcat"; %>
 <!-- 1.	scriptlet  -->
 <%
 out.println("From scriptlet   "+msg);
